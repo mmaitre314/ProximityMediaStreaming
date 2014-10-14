@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/ProximityMediaStreaming/ProximityMediaStreaming/ProximityMediaStreaming.Shared/MessageChannel - Copy.cpp
+/ProximityMediaStreaming/ProximityMediaStreaming/ProximityMediaStreaming.Shared/MessageChannel - Copy.h
